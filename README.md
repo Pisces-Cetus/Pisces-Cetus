@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pisces-Cetus
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on a JavaScript incremental game that I'm creating
+- 💞️ I’m looking to collaborate on a JavaScript incremental game that I'm making
 - 📫 Contact: (Discord) @zks9982
 - 🤔 Might edit this later...
 
